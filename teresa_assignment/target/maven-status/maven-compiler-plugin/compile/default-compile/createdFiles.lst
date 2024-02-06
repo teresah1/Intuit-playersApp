@@ -1,0 +1,10 @@
+org\players\entities\Player$PlayerBuilder.class
+org\players\exceptions\Exceptions.class
+org\players\entities\Player.class
+org\players\service\impl\PlayersServiceImpl.class
+org\players\service\PlayersService.class
+org\players\controller\PlayersController.class
+org\players\repositories\PlayerRepository.class
+org\players\PlayersApplication.class
+org\players\service\impl\InitDatabaseImpl.class
+org\players\service\InitDatabase.class
